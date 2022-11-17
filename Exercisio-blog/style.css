@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Raleway:wght@300&family=Roboto+Condensed:wght@300&display=swap');
+
+
+.lorem{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+
+}
+.tudo{
+    background-color: #fff1e6;
+    margin-left: 25%;
+    width: 50%;
+}
+.estilo{
+color: blue;
+}
